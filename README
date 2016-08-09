@@ -1,0 +1,15 @@
+Start the game by executing (it is not mandatory to run npm install for the time being):
+node bowling.js
+
+You can use string such us:
+X|X|X|X|X|X|X|X|X|X||XX
+9-|9-|9-|9-|9-|9-|9-|9-|9-|9-||
+5/|5/|5/|5/|5/|5/|5/|5/|5/|5/||5
+X|7/|9-|X|-8|8/|-6|X|X|X||81
+
+Break the execution by pressing CTRL + C
+
+Running the tests and the linter:
+- npm install
+- npm test
+- npm run eslint
