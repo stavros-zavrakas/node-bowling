@@ -2,11 +2,12 @@
 
 ## Description
 This is a very very simple bowling game. It reads a stream of characters like those:
+```
 X|X|X|X|X|X|X|X|X|X||XX
 9-|9-|9-|9-|9-|9-|9-|9-|9-|9-||
 5/|5/|5/|5/|5/|5/|5/|5/|5/|5/||5
 X|7/|9-|X|-8|8/|-6|X|X|X||81
-
+```
 and at the end will calculate the total of the points.
 
 The approach is this:
